@@ -1,3 +1,7 @@
 {
-    
+    "timestamp": 1763137749473,
+    "resources": {
+        "a": "resource a",
+        "b": "resource b %s"
+    }   
 }
